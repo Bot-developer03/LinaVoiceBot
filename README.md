@@ -53,11 +53,12 @@ sudo pacman -S mpv
 ```
 #Windows
 Download mpv
-```https://sourceforge.net/projects/mpv-player-windows/files/
+```
+https://sourceforge.net/projects/mpv-player-windows/files/
 ```
 and run Mpv-installer as administrator the add mpv file to path envionment!
 
-#linux
+# linux
 6. If you are on linux follow [this](ttps://github.com/Devanagaraj/Tg_Meowzik_Bot/blob/master/vnc.md) 
 instruction to set up vnc. If you are using windows you can skip this step.
 6. Download Telegram x64 desktop from https://t.me/tg_x64 , Log in using your second account, and enable radio mode in settings/advanced settings and then connect 
