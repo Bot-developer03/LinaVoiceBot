@@ -33,7 +33,11 @@ gitclone://bot-developer03/LinaVoiceBot
 ```
 ```
 cd LinaVoiceBot
-```- for Android,  `sudo apt-get install mpv` - for ubuntu, `sudo pacman -S mpv `  - for ArchLinux, I use arch btw
+```
+```
+pip3 install -r requirements.txt
+```
+,  `sudo apt-get install mpv` - for ubuntu, `sudo pacman -S mpv `  - for ArchLinux, I use arch btw
 - For Windows Download mpv from https://sourceforge.net/projects/mpv-player-windows/files/ and run Mpv-installer as administrator the add mpv file to path envionment!
 
 ## Run
