@@ -23,7 +23,17 @@ Using pulseaudio we can route our audio to telegram desktop.
 - Bot needs to be admin in the chat, atleast give message delete permissions.
 - Install `mpv` with
 
-`pkg install mpv` - for Android,  `sudo apt-get install mpv` - for ubuntu, `sudo pacman -S mpv `  - for ArchLinux, I use arch btw
+# Installation
+
+```
+pkg install mpv
+```
+```
+gitclone://bot-developer03/LinaVoiceBot
+```
+```
+cd LinaVoiceBot
+```- for Android,  `sudo apt-get install mpv` - for ubuntu, `sudo pacman -S mpv `  - for ArchLinux, I use arch btw
 - For Windows Download mpv from https://sourceforge.net/projects/mpv-player-windows/files/ and run Mpv-installer as administrator the add mpv file to path envionment!
 
 ## Run
