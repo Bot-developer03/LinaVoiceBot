@@ -28,7 +28,7 @@ Using pulseaudio we can route our audio to telegram desktop.
 
 ## Run
 
-1. `git clone https://github.com/Devanagaraj/Tg_Meowzik_Bot`, to download the source code.
+1. `git clone https://github.com/bot-developer03/Tg_Meowzik_Bot`, to download the source code.
 2. `cd Tg_Meowzik_Bot`, to enter the directory.
 3. `pip3 install -r requirements.txt`, to install the requirements.
 4. `cp sample_config.py config.py`
