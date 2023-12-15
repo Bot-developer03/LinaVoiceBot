@@ -45,34 +45,61 @@ python3 main.py
 ```
 # Ubuntu
 ```
+```
+gitclone://bot-developer03/LinaVoiceBot
+```
+```
+cd LinaVoiceBot
+```
+```
+pip3 install -r requirements.txt
+```
+```
+cp sample_config.py config.py
+```
+```
+python3 main.py
+```
+
 sudo apt-get install mpv
 ```
  # Archlinux
  ```
+```
+gitclone://bot-developer03/LinaVoiceBot
+```
+```
+cd LinaVoiceBot
+```
+```
+pip3 install -r requirements.txt
+```
+```
+cp sample_config.py config.py
+```
+```
+python3 main.py
+```
+
 sudo pacman -S mpv
 ```
-#Windows
-Download mpv
 ```
-https://sourceforge.net/projects/mpv-player-windows/files/
+gitclone://bot-developer03/LinaVoiceBot
 ```
-and run Mpv-installer as administrator the add mpv file to path envionment!
+```
+cd LinaVoiceBot
+```
+```
+pip3 install -r requirements.txt
+```
+```
+cp sample_config.py config.py
+```
+```
+python3 main.py
+```
 
-# linux
-6. If you are on linux follow [this](ttps://github.com/Devanagaraj/Tg_Meowzik_Bot/blob/master/vnc.md) 
-instruction to set up vnc. If you are using windows you can skip this step.
-6. Download Telegram x64 desktop from https://t.me/tg_x64 , Log in using your second account, and enable radio mode in settings/advanced settings and then connect 
-to 
-the 
-voice chat in your group.
-7. Follow [This](https://unix.stackexchange.com/questions/82259/how-to-pipe-audio-output-to-mic-input) to route 
-your PC or Server's audio output to audio input. [For Linux]
-8. If you're on windows, Follow 
-[This](https://superuser.com/questions/1133750/set-output-audio-of-windows-as-input-audio-of-microphone) or install Virtual Audio Cable instead.
-9. Run the bot `python3 main.py`
-10. Open Telegram and start voice chat.
-11. Send [commads](https://github.com/Devanagaraj/Tg_Meowzik_Bot/blob/master/README.md#commands) to bot to 
-play music.
+Open Telegram and start voice chat.
 
 ## Commands
 Command | Description
