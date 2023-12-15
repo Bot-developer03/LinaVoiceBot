@@ -37,16 +37,27 @@ cd LinaVoiceBot
 ```
 pip3 install -r requirements.txt
 ```
-,  `sudo apt-get install mpv` - for ubuntu, `sudo pacman -S mpv `  - for ArchLinux, I use arch btw
-- For Windows Download mpv from https://sourceforge.net/projects/mpv-player-windows/files/ and run Mpv-installer as administrator the add mpv file to path envionment!
+```
+cp sample_config.py config.py
+```
+```
+python3 main.py
+```
+# Ubuntu
+```
+sudo apt-get install mpv
+```
+ # Archlinux
+ ```
+sudo pacman -S mpv
+```
+#Windows
+Download mpv
+```https://sourceforge.net/projects/mpv-player-windows/files/
+```
+and run Mpv-installer as administrator the add mpv file to path envionment!
 
-## Run
-
-1. `git clone https://github.com/bot-developer03/Tg_Meowzik_Bot`, to download the source code.
-2. `cd Tg_Meowzik_Bot`, to enter the directory.
-3. `pip3 install -r requirements.txt`, to install the requirements.
-4. `cp sample_config.py config.py`
-5. Edit `config.py` with your own values.
+#linux
 6. If you are on linux follow [this](ttps://github.com/Devanagaraj/Tg_Meowzik_Bot/blob/master/vnc.md) 
 instruction to set up vnc. If you are using windows you can skip this step.
 6. Download Telegram x64 desktop from https://t.me/tg_x64 , Log in using your second account, and enable radio mode in settings/advanced settings and then connect 
