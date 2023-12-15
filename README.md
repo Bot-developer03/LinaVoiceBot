@@ -1,4 +1,5 @@
 # TG Meowzik Bot
+![-5856165201060146060_121](https://github.com/Bot-developer03/LinaVoiceBot/assets/145082163/95089326-3f9c-4be0-8aa8-c0bae7d7d9ef)
 
 - Telegram Voice-Chat Bot To Play Music From Various Sources In Your Group.
 - Uses MPV Player for Playing! with Queue supported.
