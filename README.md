@@ -48,11 +48,6 @@ your PC or Server's audio output to audio input. [For Linux]
 11. Send [commads](https://github.com/Devanagaraj/Tg_Meowzik_Bot/blob/master/README.md#commands) to bot to 
 play music.
 
-#Tutorial video 
-> Watch The Video Tutorial if you still can't do this 
-[Youtube - How to deploy the Telegram Voice Chat Bot on VPS using Ubuntu/Debian](https://youtu.be/DozNTe_cydw)
-[Thanks to t.me/ri5h46h]
-
 ## Commands
 Command | Description
 :--- | :---
@@ -71,7 +66,3 @@ Admin Commands:
 
 1. More updates will be added soon.
 2. Termux is supported using debian inside termux.
-3. If you want any help you can ask [here](https://t.me/PatheticProgrammers)
-
-## Credits
-1. `https://github.com/thehamkercat`[for His Telegram_VC_Bot]
