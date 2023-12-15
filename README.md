@@ -43,45 +43,9 @@ cp sample_config.py config.py
 ```
 python3 main.py
 ```
-# Ubuntu
+# Ubuntu 
 ```
-```
-gitclone://bot-developer03/LinaVoiceBot
-```
-```
-cd LinaVoiceBot
-```
-```
-pip3 install -r requirements.txt
-```
-```
-cp sample_config.py config.py
-```
-```
-python3 main.py
-```
-
 sudo apt-get install mpv
-```
- # Archlinux
- ```
-```
-gitclone://bot-developer03/LinaVoiceBot
-```
-```
-cd LinaVoiceBot
-```
-```
-pip3 install -r requirements.txt
-```
-```
-cp sample_config.py config.py
-```
-```
-python3 main.py
-```
-
-sudo pacman -S mpv
 ```
 ```
 gitclone://bot-developer03/LinaVoiceBot
